@@ -12,9 +12,12 @@ h3 {
   text-align: center;
 }
 
-body img{
+body{
+width: 300px;
+}
+
+img{
   height: 200px;
-  width: 300px;
   margin:0 auto;
 }
 h1 {
